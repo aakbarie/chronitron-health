@@ -1,0 +1,42 @@
+baseurl = "https://chronitronhealth.org"
+theme = "nixon"
+title = "Chronitron Health"
+languageCode = "en-us"
+copyright = "Copyright (c) 2018, Akbar Akbari Esfahani; all rights reserved."
+MetaDataFormat = "yaml"
+
+# used by Hugo shortcodes
+GoogleAnalytics = "UA-XXXXX-Y"
+
+# note that the theme expects author both here and in the
+# parameters section
+[author]
+    name = "Akbar Akbari Esfahani"
+
+# used by the theme
+[indexes]
+    tag = "tags"
+    topic = "topics"
+
+[params]
+	copyright_years = "2018"
+	css_file = "/css/nixon.css"
+	domain_name = "chronitronhealth.org"
+	personal_site = "https://sites.google.com/view/akbarakbariesfahani"
+
+	[params.author]
+		name = "Akbar Akbari Esfahani"
+		# The three quotes allow the biography to span
+		# multiple lines. Must end with three, too.
+		short_bio = """
+My interests are in the area of artificial adaptive systems (AAS) and helping organizations grow their data science capabilities and implementing data to make decisions. I also drive great enjoyment helping others understand what AAS and Data Science can do for them."""
+
+	[params.github]
+		account = "aakbarie"
+	[params.linkedin]
+		account = "akbar-akbari-esfahani/"
+
+
+	[params.license]
+		url = "http://creativecommons.org/licenses/by/3.0/"
+		attribution = "Some rights reserved"

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiny Applications on Chronitron Health</title>
+    <link>/tags/shiny-applications/</link>
+    <description>Recent content in Shiny Applications on Chronitron Health</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2018, Akbar Akbari Esfahani; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/shiny-applications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Science for Dialysis Patients</title>
+      <link>/presentation/data-science-for-dialysis/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/presentation/data-science-for-dialysis/</guid>
+      <description>&lt;p&gt;This project is towards building an artificial intilligent application to help dialysis patients. This app will track the daily values of patients, allow them to track their daily values with visualizations, and contact their dialysis centers in case of incongruities. Further, the application allows constant access to patients doctors and nurses, with the ability to download the patients data in a csv format.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
